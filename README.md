@@ -11,7 +11,7 @@ This **Simple** Python script is designed to **scrape financial data** from the 
 To run this project, you’ll need:
 
 - 🐍 Python 3.8 or newer  
-- 📦 `requests`, `beautifulsoup4` libraries  
+- 📦 `requests`, `beautifulsoup4` and `lxml` libraries  
 - 🌐 Internet connection to access live data
 
 ---

@@ -19,7 +19,7 @@ To run this project, you’ll need:
 ## ✨ Highlights
 
 - 🔍 Extracts structured data from HTML tables  
-- 📁 Saves output in JSON or CSV format  
+- 📁 Saves output in CSV format  
 - 🔄 Supports periodic scraping for updates  
 - 🧩 Easily extendable for other financial pages
 
